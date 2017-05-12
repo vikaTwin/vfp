@@ -1,0 +1,16 @@
+INPUT(
+./debug/main.o
+./debug/mainview.o
+./debug/setuptab.o
+./debug/startup.o
+./debug/utils.o
+./debug/settings.o
+./debug/provider.o
+./debug/instsocket.o
+./debug/qrc_vfpresources.o
+./debug/moc_mainview.o
+./debug/moc_setuptab.o
+./debug/moc_startup.o
+./debug/moc_settings.o
+./debug/moc_instsocket.o
+);

@@ -1,0 +1,16 @@
+INPUT(
+./release/main.o
+./release/mainview.o
+./release/setuptab.o
+./release/startup.o
+./release/utils.o
+./release/settings.o
+./release/provider.o
+./release/instsocket.o
+./release/qrc_vfpresources.o
+./release/moc_mainview.o
+./release/moc_setuptab.o
+./release/moc_startup.o
+./release/moc_settings.o
+./release/moc_instsocket.o
+);
